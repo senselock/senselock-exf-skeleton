@@ -1,0 +1,12 @@
+XH
+H 2 areas 1 global symbols
+M VM_SDCC_LARGE_SHA1_CM_FIRST1
+A _CODE size 0 flags 0 addr 0
+A CSEG size 1E flags 20 addr 0
+S __sha1_first_block Def0000
+T 00 00 7F 40 A9 82 AA 83 E5 F0 60 08 94 40 60 08
+R 00 00 00 01
+T 00 0E 7B FF 80 06 7B 01 80 02 7B 00 12 FF 20 8F
+R 00 00 00 01
+T 00 1C 82 22
+R 00 00 00 01

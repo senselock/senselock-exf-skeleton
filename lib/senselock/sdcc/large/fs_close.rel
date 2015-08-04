@@ -1,0 +1,10 @@
+XH
+H 2 areas 1 global symbols
+M VM_SDCC_LARGE_FS_CLOSE
+A _CODE size 0 flags 0 addr 0
+A CSEG size 10 flags 20 addr 0
+S __close Def0000
+T 00 00 AF 82 7D 01 79 00 7A 00 7B 00 12 FF 04 8F
+R 00 00 00 01
+T 00 0E 82 22
+R 00 00 00 01

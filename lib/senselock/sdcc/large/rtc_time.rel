@@ -1,0 +1,13 @@
+XH
+H 2 areas 2 global symbols
+M VM_SDCC_LARGE_RTC_TIME
+S __convert Ref0000
+A _CODE size 0 flags 0 addr 0
+A CSEG size 21 flags 20 addr 0
+S __time Def0000
+T 00 00 A9 82 AA 83 E5 F0 60 08 94 40 60 08 7B FF
+R 00 00 00 01
+T 00 0E 80 06 7B 01 80 02 7B 00 12 FF A4 7C 04 12
+R 00 00 00 01
+T 00 1C 00 00 8F 82 22
+R 00 00 00 01 02 02 00 00

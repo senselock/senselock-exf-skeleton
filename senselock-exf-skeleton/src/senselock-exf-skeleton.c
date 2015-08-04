@@ -60,6 +60,7 @@ void main(void) {
 			res->error = ext_error_code;
 			size = 1;
 		}
+		break;
 	default:
 		error = ERR_INVALID_CMD;
 		break;
